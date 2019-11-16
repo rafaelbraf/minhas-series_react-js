@@ -3,9 +3,9 @@
     {
       "id": 1,
       "name": "How I met your mother",
-      "status": "watched",
+      "status": "watching",
       "genre": "Comédia",
-      "comments": "Muito bom"
+      "comment": "muito bom"
     },
     {
       "id": 2,
@@ -17,34 +17,6 @@
         "season": "09"
       },
       "comments": "Bom para descontrair"
-    },
-    {
-      "id": 3,
-      "name": "Breaking Bad",
-      "status": "watched",
-      "genre": "Drama",
-      "comments": "Say My Name - melhor cena"
-    },
-    {
-      "id": 4,
-      "name": "Better Call Saul",
-      "status": "toWatch",
-      "genre": "Drama",
-      "comments": "Galera fala bem"
-    },
-    {
-      "name": "teste",
-      "status": "watched",
-      "genre": "Drama",
-      "comment": "opa",
-      "id": 5
-    },
-    {
-      "name": "calam",
-      "status": "watched",
-      "genre": "Ação",
-      "comment": "eita bixo",
-      "id": 6
     }
   ],
   "genres": [
