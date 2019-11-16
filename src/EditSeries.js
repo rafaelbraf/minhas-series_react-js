@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import api from './Api'
 import {Redirect} from 'react-router-dom';
-import { red } from 'ansi-colors';
 
 const statuses = {
     "watched": "Assistido",
