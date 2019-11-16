@@ -8,15 +8,25 @@
       "comment": "muito bom"
     },
     {
-      "id": 2,
       "name": "Friends",
+      "status": "watched",
+      "genre": "Comédia",
+      "comment": "Uma das melhores sitcoms",
+      "id": 3
+    },
+    {
+      "name": "Família Moderna",
       "status": "watching",
       "genre": "Comédia",
-      "current": {
-        "episode": "01",
-        "season": "09"
-      },
-      "comments": "Bom para descontrair"
+      "comment": "Está nas minhas séries favoritas",
+      "id": 4
+    },
+    {
+      "name": "Mr. Robot",
+      "status": "watching",
+      "genre": "Drama",
+      "comment": "Série muito boa",
+      "id": 5
     }
   ],
   "genres": [
